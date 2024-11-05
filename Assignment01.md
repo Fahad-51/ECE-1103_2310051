@@ -80,14 +80,3 @@ printf("Error: Please Check the description of Menu");
 <img alt="Screenshot 2024-09-16 at 4 00 16 PM" src="https://github.com/user-attachments/assets/c7b5a016-eda9-4aa2-a2ec-2b1402d764d3">
 </p>
 
-## **Discussion :**
-<div align="justify">
-Input and Output : scanf to take two integer inputs and printf to display the result.<br>
-Arithmetic Operation : A simple addition operation using the variables a and b.<br>
-Format Specifiers : %d handle integer values for both input and output.<br>
-</div>
-
-## **Conclusion :**
-<div align="justify">
-The program effectively shows output “hello world”<br>
-</div>
