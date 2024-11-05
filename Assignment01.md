@@ -77,7 +77,7 @@ printf("Error: Please Check the description of Menu");
 
 ## **Output :**
 <p align="center">
-<img width="410" height="130" alt="Screenshot 2024-09-16 at 4 00 16 PM" src="https://github.com/user-attachments/assets/c7b5a016-eda9-4aa2-a2ec-2b1402d764d3">
+<img alt="Screenshot 2024-09-16 at 4 00 16 PM" src="https://github.com/user-attachments/assets/c7b5a016-eda9-4aa2-a2ec-2b1402d764d3">
 </p>
 
 ## **Discussion :**
