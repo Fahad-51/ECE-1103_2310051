@@ -76,7 +76,7 @@ printf("Error: Please Check the description of Menu");
 
 ## **Output :**
 <p align="center">
-(https://github.com/user-attachments/assets/c7b5a016-eda9-4aa2-a2ec-2b1402d764d3
+https://github.com/user-attachments/assets/c7b5a016-eda9-4aa2-a2ec-2b1402d764d3
 </p>
 
 ## **Discussion :**
