@@ -48,8 +48,8 @@ _**Heaven’s Light is Our Guide**_
 
 | Assignment No. | Title | Link |
 | :---: | :---: | :---: |
-| 01 |               SWITCH STATEMENT               | [Assignment-01](https://github.com/Fahad-51/ECE-1103_2310051/blob/main/Assignment-01.md)
-| 02 | Guess the secret number with limited attempt | [Assignment-02](https://github.com/Fahad-51/ECE-1103_2310051/blob/main/Assignment-02.md)
+| 01 |                SWITCH STATEMENT               | [Assignment-01](https://github.com/Fahad-51/ECE-1103_2310051/blob/main/Assignment-01.md)
+| 02 | Guess the Secret Number With Limited Attempts | [Assignment-02](https://github.com/Fahad-51/ECE-1103_2310051/blob/main/Assignment-02.md)
 
 
 </div>
