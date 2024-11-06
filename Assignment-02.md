@@ -1,10 +1,10 @@
 
 ----------
-## **Assignment No : 01**
+## **Assignment No : 02**
 
-## **Assignment Name : SWITCH STATEMENT**
+## **Assignment Name : Guess the Secret Number with Limited Attempts**
 
-## **Submission Date : 05 November 2024**
+## **Submission Date : 06 November 2024**
 
 ----------
 
@@ -50,6 +50,6 @@ else if(attempt>0){
 
 ## **Output :**
 <p align="center">
-<img alt="Screenshot 2024-09-16 at 4 00 16 PM" src="https://github.com/user-attachments/assets/c7b5a016-eda9-4aa2-a2ec-2b1402d764d3">
+<img alt="Screenshot 2024-09-16 at 4 00 16 PM" src="https://github.com/user-attachments/assets/17e17ce1-ea24-4ada-9284-e405b41f72a8">
 </p>
 
