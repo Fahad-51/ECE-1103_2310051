@@ -35,6 +35,6 @@ printf("No value has matched!");
 
 ## **Output :**
 <p align="center">
-<img alt="https://github.com/user-attachments/assets/a5842036-9533-43f0-83d3-ecbf7e6029de">
+<img src = "https://github.com/user-attachments/assets/44945641-8eb0-49ef-a6cd-5790d55f1758">
 </p>
 
