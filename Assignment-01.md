@@ -154,5 +154,5 @@ while(1);
 
 ## **Output :**
 <p align="center">
-<img alt="https://github.com/user-attachments/assets/ad23fc47-de14-415d-b576-8c63cfbbe078">
+<img src="https://github.com/user-attachments/assets/ad23fc47-de14-415d-b576-8c63cfbbe078">
 </p>
