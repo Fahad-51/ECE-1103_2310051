@@ -60,7 +60,7 @@ printf("\n");
 
 ## **Output :**
 <p align="center">
-<img alt="Screenshot 2024-09-16 at 4 00 16 PM" src="https://github.com/user-attachments/assets/c7b5a016-eda9-4aa2-a2ec-2b1402d764d3">
+<img src = "https://github.com/user-attachments/assets/fdc4b2ac-8e25-44f6-a61e-ee318718cb27">
 </p>
 
 
@@ -110,6 +110,5 @@ After the function call, a is still 3 in main(), but the function returns the mo
 
 ## **Output :**
 <p align="center">
-<img alt="Screenshot 2024-09-16 at 4 00 16 PM" src="https://github.com/user-attachments/assets/c7b5a016-eda9-4aa2-a2ec-2b1402d764d3">
+<img src = "https://github.com/user-attachments/assets/19b0d711-bc9c-4035-a229-6d112afaf3ca">
 </p>
-
