@@ -40,7 +40,7 @@ int main() {
     printf("Student names in the specified order:\n");
     
 
-    for (int i = 0; i <= 9; i++) {
+    for (int i=9; i>=0; i++) {
         printf("%s\n", s[i].name);
     }
 
@@ -52,7 +52,7 @@ int main() {
 
 ## **Output :**
 <p align="center">
-<img src = "https://github.com/user-attachments/assets/bfc9f9ab-cdba-4597-94d9-ad64594c5ac2">
+<img src = "https://github.com/user-attachments/assets/ca0db941-9462-479a-b295-461bd159601b">
 </p>
 
 
