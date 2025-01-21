@@ -40,19 +40,22 @@ int main() {
     printf("Student names in the specified order:\n");
     
 
-    for (int i=9; i>=0; i++) {
-        printf("%s\n", s[i].name);
+    for (int i=9; i>=0; i--) {
+        printf("Roll:%d \n Name:%s, Age: %d, CGPA: %.2f, Dept: %s\n",s[i].roll,s[i].name,s[i].age,s[i].cgpa,s[i].dep);
     }
 
     return 0;
 }
 
 
+
 ```
 
 ## **Output :**
 <p align="center">
-<img src = "https://github.com/user-attachments/assets/ca0db941-9462-479a-b295-461bd159601b">
+<img src = "https://github.com/user-attachments/assets/8229cf70-2be2-4ec2-af11-fa67fa6f2ea1">
 </p>
+
+
 
 
