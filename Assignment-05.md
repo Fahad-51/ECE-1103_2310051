@@ -37,7 +37,7 @@ int main() {
     strcpy(s[8].name, "Ali");   s[8].roll = 9; s[8].age = 20; strcpy(s[8].dep, "ME");  s[8].cgpa = 3.3;
     strcpy(s[9].name, "Robin"); s[9].roll = 10;s[9].age = 21; strcpy(s[9].dep, "CE");  s[9].cgpa = 3.8;
 
-    printf("Student names in the specified order:\n");
+    printf("Student data in the specified order:\n");
     
 
     for (int i=9; i>=0; i--) {
